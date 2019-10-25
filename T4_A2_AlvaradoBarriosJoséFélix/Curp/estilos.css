@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: rgb(11, 48, 172);
+    text-align: center;
+    padding: 35px;
+    color: black;
+}
+.header{
+    font-size: 30px;
+}
